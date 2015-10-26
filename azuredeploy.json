@@ -39,7 +39,7 @@
     },
     "subnet1Name": {
       "type": "string",
-      "defaultValue": "Subnet 1",
+      "defaultValue": "ABSubNet01",
       "metadata": {
         "description": "Subnet 1 Name"
       }
@@ -53,7 +53,7 @@
     },
     "subnet2Name": {
       "type": "string",
-      "defaultValue": "Subnet 2",
+      "defaultValue": "ABSubNet02",
       "metadata": {
         "description": "Subnet 2 Name"
       }
