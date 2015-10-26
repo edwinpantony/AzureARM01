@@ -3,19 +3,19 @@
     "value": "Australia Southeast"
   },
   "vnetName": {
-      "value": "VNet 1"
+      "value": "ABvNetJSONDeploy"
   },
   "addressPrefix": {
       "value": "10.0.0.0/16"
   },
   "subnet1Name": {
-      "value": "Subnet 1"
+      "value": "ABJSONDeploySub01"
   },
   "subnet1Prefix": {
     "value": "10.0.0.0/24"
   },
   "subnet2Name": {
-      "value": "Subnet 2"
+      "value": "ABJSONDeploySub02"
   },
   "subnet2Prefix": {
       "value": "10.0.1.0/24"
