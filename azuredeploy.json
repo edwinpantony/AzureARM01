@@ -18,7 +18,7 @@
     },
     "vnetName": {
       "type": "string",
-      "defaultValue": "ABvNetJSONDeploy",
+      "defaultValue": "ABvNetJSONDeployxxx",
       "metadata": {
         "description": "VNet name"
       }
