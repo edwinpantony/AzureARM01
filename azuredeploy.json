@@ -10,8 +10,9 @@
         "Central US",
         "West Europe",
         "East Asia",
-        "Australia Southeast"
+        "Australia Southeast",
       ],
+      "defaultValue": "Australia Southeast",      
       "metadata": {
         "description": "Deployment location"
       }
